@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'T-overlord'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBEA357D62D548D59524D981FB95BF4A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6298113FD244EFF847FF6F02DD99744 }}
           package: .
